@@ -1,5 +1,5 @@
 # YouTube_clone
-## YouTube Homepage Clone
+### YouTube Homepage Clone
 
 Welcome to my GitHub repository for a YouTube homepage clone built with HTML and CSS! 
 This project is a web development exercise aimed at recreating the familiar look 
